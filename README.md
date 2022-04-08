@@ -1,2 +1,3 @@
 # c-number-guesser
-a simple c# number guesser name
+a simple c# number guesser game
+
